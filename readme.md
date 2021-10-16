@@ -1,0 +1,1 @@
+This is a practice project for the recipes project in TOP Foundations course 
